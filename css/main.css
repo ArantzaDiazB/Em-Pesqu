@@ -102,18 +102,89 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.logo{
+  width:100%;
+  max-width: 100%;
+}
 
 
+.title{
+  font-size: 32px;
+  font-family: 'Bodoni', 'Arapey', serif;
+  text-align: left;
+
+}
 
 
+.main-photo{
+  width:100%;
+  max-width: 100%;
+}
 
 
+.text-content{
+ font-family: 'Bodoni', 'Arapey', serif;
+ text-align: justify;
+}
 
+.text-container{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
 
+.social-icons img{
+  width: 100px;
+  margin-bottom: 2%;
 
+}
 
+.social-icons-container{
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
 
+.main-menu{
+ font-family: 'Bodoni', 'Arapey', serif;
+ font-size: 24px;
+ margin-top: 2%;
+ margin-left: 10%;
+}
 
+.main-menu a{
+  color: gray;
+}
+
+.menu-ornaments{
+      border-top: 1px solid green;
+}
+
+.title-container{
+  margin-top: 40%; 
+}
+
+.header-container{
+  margin-top: 2%;
+}
+
+.grid img{
+    width:100%;
+  max-width: 100%;
+}
+
+.books-container img{
+  margin-top: 15%
+}
+
+.more-container img{
+  margin-bottom: 5%
+  width: 50%;
+}
+
+.logo-container img{
+  margin-top: 10%
+  width: 20%;
+}
 
 
 
